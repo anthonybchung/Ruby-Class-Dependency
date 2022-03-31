@@ -4,3 +4,4 @@
 class Position
   attr_accessor :pos_y, :pos_x, :pos_f
 end
+
