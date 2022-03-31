@@ -1,6 +1,7 @@
 # Ruby-Class-Dependency
 
-## Investingating loosely coupled codes
+##Open-Close Principles
+### Investingating loosely coupled codes
 This exercise look at the loose coupling theory
 
 ```
